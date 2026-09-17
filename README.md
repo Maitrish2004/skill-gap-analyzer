@@ -63,22 +63,22 @@ How It Works
 
  
  
- User
-  │
-  ▼
+     User
+      │
+      ▼
 Select Career Role
-  │
-  ▼
+      │
+      ▼
 Enter Existing Skills
-  │
-  ▼
+      │
+      ▼
 Frontend (HTML/CSS/JavaScript)
-  │
-  │  REST API Request
-  ▼
+      │ 
+      │  REST API Request
+      ▼
 Python + Flask Backend
-  │
-  ▼
+      │
+      ▼
 Compare User Skills
 with Required Role Skills
   │
@@ -134,6 +134,8 @@ Improvement Suggestions
 
 Project Structure
 
+
+
 skill-gap-analyzer/
 │
 ├── backend/
@@ -184,7 +186,11 @@ The system compares these skills with the required skills for a Data Analyst and
 - User progress tracking
 - Database integration
 - User authentication
+
+
 Author
+
 Maitrish Mandal
+
 B.Tech - Computer Science & Engineering
 
