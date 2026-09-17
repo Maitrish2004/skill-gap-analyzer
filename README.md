@@ -66,10 +66,10 @@ How It Works
      User
       │
       ▼
-Select Career Role
+  Select Career Role
       │
       ▼
-Enter Existing Skills
+  Enter Existing Skills
       │
       ▼
 Frontend (HTML/CSS/JavaScript)
