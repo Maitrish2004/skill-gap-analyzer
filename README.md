@@ -66,33 +66,33 @@ How It Works
      User
       │
       ▼
-  Select Career Role
+   Select Career Role
       │
       ▼
-  Enter Existing Skills
+   Enter Existing Skills
       │
       ▼
-Frontend (HTML/CSS/JavaScript)
+   Frontend (HTML/CSS/JavaScript)
       │ 
       │  REST API Request
       ▼
-Python + Flask Backend
+   Python + Flask Backend
       │
       ▼
-Compare User Skills
-with Required Role Skills
-  │
-  ├── Calculate Match Score
-  ├── Find Missing Skills
-  └── Generate Suggestions
-  │
-  ▼
-Results Displayed
-  │
-  ├── Skill Score
-  ├── Readiness Status
-  ├── Missing Skills
-  └── Improvement Suggestions
+   Compare User Skills
+   with Required Role Skills
+   │
+   ├── Calculate Match Score
+   ├── Find Missing Skills
+   └── Generate Suggestions
+   │
+   ▼
+  Results Displayed
+   │
+   ├── Skill Score
+   ├── Readiness Status
+   ├── Missing Skills
+   └── Improvement Suggestions
 
 ---
 
